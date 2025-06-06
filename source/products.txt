@@ -1,0 +1,21 @@
+1 | CPU (Processor)	| AMD Ryzen 7 7800X3D	| 700
+2 | CPU (Processor)	| Intel Core i7-13700K	| 600
+3 | CPU (Processor)	| AMD Ryzen 9 7950X	| 850
+4 | CPU (Processor)	| Intel Core i5-13600KF	| 350
+5 | GPU (Graphics Card)	| NVIDIA RTX 4070 Super	| 1200
+6 | GPU (Graphics Card)	| AMD Radeon RX 7800 XT	| 950
+7 | GPU (Graphics Card)	| NVIDIA RTX 4080 Super	| 1700
+8 | GPU (Graphics Card)	| Intel Arc A770	| 400
+9 | Motherboard	| ASUS ROG Strix B650-F	| 400
+10 | Motherboard	| MSI MAG B760 Tomahawk WiFi	| 300
+11 | Motherboard	| Gigabyte X670 AORUS Elite AX	| 350
+12 | Motherboard	| ASRock Z790 Steel Legend	| 320
+13 | RAM (Memory)	| 32GB DDR5-6000 (2x16GB) Corsair	| 240
+14 | RAM (Memory)	| 64GB DDR5-6400 (2x32GB) G.Skill	| 380
+15 | RAM (Memory)	| 16GB DDR4-3200 (2x8GB) Kingston	| 90
+16 | RAM (Memory)	| 32GB DDR4-3600 (2x16GB) Crucial	| 130
+17 | SSD (NVMe)	| 1TB Samsung 990 Pro	| 200
+18 | SSD (NVMe)	| 2TB WD Black SN850X	| 330
+19 | SSD (NVMe)	| 1TB Crucial P5 Plus	| 150
+20 | SSD (NVMe)	| 500GB Kingston NV2	| 80
+21 | GPU (Graphic Card)	| NVIDIA RTX 5090	| 4000
